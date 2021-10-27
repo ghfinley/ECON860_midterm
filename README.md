@@ -26,4 +26,6 @@ For lines 32:49, you can searh the json and add any more or less variables that 
 
 All other data is extracted
 
+** username file is in .gitignore file, but it still shows in the repo. This is not a big deal as it is not sensitive information, but be sure to place in the .gitignore file before pushing to GitHub
+
 
